@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**bclews/bclews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ben — Senior Software Engineer @ CSIRO Data61.
 
-Here are some ideas to get you started:
+I build production infrastructure and data-intensive systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rust, Go, Python.  
+AWS and Linux.  
+Research → reliable systems.
+
+---
+ 
+🛠 Cloud-native scientific platforms  
+⚙️ High-concurrency tooling in Go  
+
+Writing: https://clews.id.au  
+
+📍Hobart, Tasmania
