@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Ben — Senior Software Engineer @ CSIRO Data61.
+I’m Ben — Principal Engineer @ CSIRO Technology.
 
 I build production infrastructure and data-intensive systems.
 
